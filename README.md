@@ -1,9 +1,9 @@
-# Vivace v0.3.0 (beta)
+# Vivace 
 A collection of dynamic web tools designed to increase performance through dynamic rendering on small websites
 
 The repo contains two main files in the assets/javascript directory: vivace.js (the Vivace JavaScript library) and v-template.js (the optional Vivace templating engine)
 
-## Vivace Library 
+## Vivace Library v0.3.0 (beta)
 Add the vivace.js file to your project, the same way you would jQuery or any other file. You can not use the following functions
 
 ToggleClass(Id, Class); 
@@ -51,7 +51,7 @@ This function is a way to use AJAX and JSON without jQuery. It is currently in b
 For a visual demonstration, many of these functions on on the website: https://vivace.andreobriennz.com
 
 
-## Vivace Templater (v0.0.2 (alpha)
+## Vivace Templater v0.0.2 (alpha)
 
 To use the templater,
 
